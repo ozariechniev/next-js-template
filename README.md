@@ -6,7 +6,7 @@
 
 ### Core Framework & Libraries
 
-- **Next.js** `16.0.4` - React framework with App Router
+- **Next.js** `16.0.5` - React framework with App Router
 - **React** `19.2.0` - UI library
 - **TypeScript** `5.x` - Type safety
 - **Tailwind CSS** `4.x` - Utility-first CSS framework
