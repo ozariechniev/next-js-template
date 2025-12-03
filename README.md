@@ -24,7 +24,7 @@ rm -rf .git
 
 git init -b main
 
-npm install
+pnpm install
 
 git add .
 git commit -m "initial commit"
@@ -33,9 +33,9 @@ git commit -m "initial commit"
 ## Usage
 
 ```bash
-`npm run dev`    # Start the development server with hot reloading.
-`npm run build`  # Build the application for production.
-`npm run start`  # Start the production server (after building).
-`npm run lint`   # Run ESLint to analyze and lint code for issues.
-`npm run format` # Format codebase using Prettier.
+`pnpm run dev`    # Start the development server with hot reloading.
+`pnpm run build`  # Build the application for production.
+`pnpm run start`  # Start the production server (after building).
+`pnpm run lint`   # Run ESLint to analyze and lint code for issues.
+`pnpm run format` # Format codebase using Prettier.
 ```
